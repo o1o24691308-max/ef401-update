@@ -1,6 +1,6 @@
 {
-  "latestVersionCode": 2,
-  "latestVersionName": "1.0.2",
+  "latestVersionCode": 3,
+  "latestVersionName": "1.0.3",
   "apkUrl": "https://github.com/o1o24691308-max/ef401-update/releases/latest/download/ef401-release.apk",
   "forceUpdate": false,
   "message": "창고이동 품번별 집계 기능이 추가되었습니다."
