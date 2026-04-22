@@ -1,7 +1,7 @@
 {
-  "latestVersionCode": 5,
-  "latestVersionName": "1.0.5",
+  "latestVersionCode": 6,
+  "latestVersionName": "1.0.6",
   "apkUrl": "https://github.com/o1o24691308-max/ef401-update/releases/latest/download/ef401-release.apk",
   "forceUpdate": false,
-  "message": "업데이트 테스트 버전 1.0.5 입니다."
+  "message": "한글패치및 가로스크롤적용버젼"
 }
